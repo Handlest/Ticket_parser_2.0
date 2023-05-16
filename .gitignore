@@ -146,12 +146,8 @@ cython_debug/
 data/
 __pycache__/
 myapi.py
-identifier.sqlite
 tickets.db
 .idea/encodings.xml
 .idea/Ticket_parser_2.0.iml
 .idea/vcs.xml
-tickets.db
-myapi.py
-.idea/Ticket_parser_2.0.iml
-tickets.db
+identifier.sqlite
