@@ -153,3 +153,5 @@ tickets.db
 .idea/vcs.xml
 tickets.db
 myapi.py
+.idea/Ticket_parser_2.0.iml
+tickets.db
