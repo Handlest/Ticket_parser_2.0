@@ -1,4 +1,3 @@
-# API token is e792af02824136cab4885087552040fc
 import time
 import datetime
 import schedule
